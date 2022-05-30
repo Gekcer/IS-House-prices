@@ -1,1 +1,3 @@
-
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques # домики
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html # енкодер
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html # енкодер 2
